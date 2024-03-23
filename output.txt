@@ -1,0 +1,4 @@
+Xanthos (8,9) E
+Myra (2,22) E
+Arycanda (8,22) S
+Phaselis (4,32) E
